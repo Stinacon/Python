@@ -1,1 +1,3 @@
-print('Christina')
+name = input('What is your name?')
+
+print(name)
