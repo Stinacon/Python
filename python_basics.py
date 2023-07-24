@@ -26,3 +26,9 @@
 
 
 # Developer Fundamentals
+'''Don't read the dictionary; just learn the most-used principles'''
+
+'''Random - If there is a doc string right after the definition of a function, module, class or method,
+you can access that doc string by using the __doc__ attribute'''
+# https://www.programiz.com/python-programming/docstrings
+# print(print.__doc__)
