@@ -32,3 +32,12 @@
 you can access that doc string by using the __doc__ attribute'''
 # https://www.programiz.com/python-programming/docstrings
 # print(print.__doc__)
+
+# Complex data type - only used with complex math; equivalent to a real number
+
+# Binary numbers - function bin() - returns a binary representation of a number
+# print(bin(5))
+# print(int('0b101', 2))  # returns the integer representation of a binary number
+
+
+# Variables
