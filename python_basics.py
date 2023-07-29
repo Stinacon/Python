@@ -41,3 +41,9 @@ you can access that doc string by using the __doc__ attribute'''
 
 
 # Variables
+# Python variable best practices/rules:
+# snake_case = 'snake_case'  # snake_case - all lowercase with underscores between words
+# start with lowercase or underscore
+# letters, numbers, underscores
+# case sensitive
+# don't overwrite keywords
