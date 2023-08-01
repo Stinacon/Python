@@ -34,3 +34,23 @@
 # print(selfish[::-1])
 
 # Immutability
+
+# String Methods
+# quote = 'to be or not to be'
+# print(quote.capitalize())
+# print(quote.replace('be', 'me'))
+# print(quote)
+
+# Booleans
+# name = 'Xtina'
+# is_cool = False
+
+# is_cool = True
+
+# print(bool('True'))
+
+# Type Conversion
+
+# birth_year = input('What year were you born? ')
+# age = 2023 - int(birth_year)
+# print(f'Your age is {age}.')
